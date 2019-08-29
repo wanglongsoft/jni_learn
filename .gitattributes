@@ -1,1 +1,1 @@
-*.js linguist-language=[Java,C++]
+*.cpp linguist-language=java
